@@ -1,6 +1,6 @@
 # No Fakes
 
-**No Fakes** is a **free platform for monitoring fake messages**
+**No Fakes is afree platform for monitoring fake messages**
 
 ## Table of contents
 
